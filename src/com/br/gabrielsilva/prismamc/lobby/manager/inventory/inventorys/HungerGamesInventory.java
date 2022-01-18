@@ -35,14 +35,14 @@ public class HungerGamesInventory extends MenuInventory {
 				 HungerGamesServer hungerGamesServer = Core.getServersHandler().getHungerGamesServer("hg" + salaID);
 				 
 				 if (!hungerGamesServer.isOnline()) {
-					 player.sendMessage("§cEsta sala est§ offline.");
+					 player.sendMessage("§cEsta sala está offline.");
 					 return;
 				 }
 				 if (hungerGamesServer.getEstagio() == Stages.FIM || hungerGamesServer.getEstagio() == Stages.CARREGANDO) {
 					 if (hungerGamesServer.getEstagio() == Stages.FIM) {
-						 player.sendMessage("§cO jogo est§ sendo encerrado.");
+						 player.sendMessage("§cO jogo está sendo encerrado.");
 					 } else {
-						 player.sendMessage("§cO servidor est§ carregando.");
+						 player.sendMessage("§cO servidor está carregando.");
 					 }
 					 return;
 				 }
