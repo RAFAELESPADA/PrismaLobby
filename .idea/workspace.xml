@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PrismaLobby:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="603e02ba-91dd-4563-890c-5cd9443a54e5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="23Q4JsbLxPUw1EOQs8ITxYN8gAw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PrismaMC - KitPvP" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="java -jar Prismalobby" />
+      <command value="mvn org.apache.maven.plugins:maven-install-plugin:2.5.2:install-file  -Dfile=C:\DEPENDS\original-PrismaCommons-0.0.1-SNAPSHOT.jar -DgroupId=prisma -DartifactId=prisma2 -Dversion=1.0 -Dpackaging=jar -DlocalRepositoryPath=C:\Users\SO Auler\.m2\repository" />
+      <command value="mvn org.apache.maven.plugins:maven-install-plugin:2.5.2:install-file  -Dfile=C:\DEPENDS\original-PrismaCommons-0.0.1-SNAPSHOT.jar -DgroupId=prisma -DartifactId=prisma2 -Dversion=1.0 -Dpackaging=jar -DlocalRepositoryPath=C:\Users\SO Auler\eclipse-workspace\PrismaMC - Lobby\target" />
+      <command value="mvn org.apache.maven.plugins:maven-install-plugin:2.5.2:install-file  -Dfile=C:\DEPENDS\original-PrismaCommons-0.0.1-SNAPSHOT.jar -DgroupId=prisma -DartifactId=prisma2 -Dversion=1.0 -Dpackaging=jar -DlocalRepositoryPath=C:\Users\SO_Auler\eclipse-workspace\PrismaMC - Lobby\target" />
+      <command value="mvn org.apache.maven.plugins:maven-install-plugin:2.5.2:install-file  -Dfile=C:\DEPENDS\original-PrismaCommons-0.0.1-SNAPSHOT.jar -DgroupId=prisma -DartifactId=prisma2 -Dversion=1.0 -Dpackaging=jar -DlocalRepositoryPath=C:\Users\SO_Auler\eclipse-workspace\PrismaMC_-_Lobby\target" />
+      <command value="mvn org.apache.maven.plugins:maven-install-plugin:2.5.2:install-file  -Dfile=C:\DEPENDS\original-PrismaCommons-0.0.1-SNAPSHOT.jar -DgroupId=prisma -DartifactId=prisma2 -Dversion=1.0 -Dpackaging=jar -DlocalRepositoryPath=C:\DEPENDS" />
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="603e02ba-91dd-4563-890c-5cd9443a54e5" name="Changes" comment="" />
+      <created>1641652924098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641652924098</updated>
+    </task>
+    <servers />
+  </component>
+</project>

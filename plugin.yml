@@ -1,0 +1,5 @@
+name: PrismaLobby
+main: com.br.gabrielsilva.prismamc.lobby.Lobby
+author: BiielBr
+version: 0.0.1
+softdepend: [PrismaCommons]
